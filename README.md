@@ -5,6 +5,8 @@
 
 1. Practice C++ Coding – задачи с С++ курсов;
 
-2. Interview Task Examples – практические задания с собеседований.</h4>
+2. Interview Task Examples – практические задания с собеседований;
+
+3. Lafore Progs – упражнения из книги Лафоре Р. «Объектно-ориентированное программирование в С++». </h4>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/98958055/185792712-8a5bef4a-8270-4231-b873-fba010f349af.gif" height="256"/></h2>
